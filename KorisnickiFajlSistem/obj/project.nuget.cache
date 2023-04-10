@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8X3cog1yaFNqP1ImrousiTvCr4XBCu3kQEsXOjGT+BMqRNoJKg4iCjIY/7CVjxBP8NS2CaLINDCz1dVXDbo2iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nemanja\\Desktop\\Programiranje\\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\\Raspoređivač zadataka\\KorisnickiFajlSistem\\KorisnickiFajlSistem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nemanja\\.nuget\\packages\\dokannet\\2.0.5.1\\dokannet.2.0.5.1.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

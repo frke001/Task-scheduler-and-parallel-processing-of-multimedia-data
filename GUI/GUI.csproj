@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\close32.png" />
+    <None Remove="Resources\pause32.png" />
+    <None Remove="Resources\play32.png" />
+    <None Remove="Resources\stop32.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Raspoređivač zadataka\Raspoređivač zadataka.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\close32.png" />
+    <Resource Include="Resources\pause32.png" />
+    <Resource Include="Resources\play32.png" />
+    <Resource Include="Resources\stop32.png" />
+  </ItemGroup>
+
+</Project>
