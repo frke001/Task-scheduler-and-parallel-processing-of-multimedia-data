@@ -19,3 +19,10 @@ The project includes a non-blocking GUI application for task scheduling, which a
 ## User-Space File System
 
 The project also includes a driver for a user-space file system, which uses the task scheduler API and allows for the processing of multimedia data by tasks. The file system contains an input folder into which multimedia files can be copied, and after the files are copied into the input folder, the processing of those files begins. After the processing of the files is complete, the results are available in the output folder.
+
+
+## GUI
+
+![image](https://user-images.githubusercontent.com/93668747/231578034-3136af12-1cd6-4d06-93ec-3c747589f481.png)
+![image](https://user-images.githubusercontent.com/93668747/231578515-0dd56bbe-5a9a-43bf-8309-df21206abc1c.png)
+
