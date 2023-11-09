@@ -1,0 +1,94 @@
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.deps.json
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.runtimeconfig.json
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.exe
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.dll
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.pdb
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\StartupWindow.g.cs
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\StartupWindow.baml
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\CreateTaskWindow.g.cs
+C:\Users\Nemanja\Desktop\Programiranje\Raspoređivač zadataka i paralelna obrada multimedijalnih podataka\Raspoređivač zadataka\GUI\obj\Debug\net6.0-windows\CreateTaskWindow.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.deps.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.runtimeconfig.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.exe
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.pdb
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\CreateTaskWindow.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\StartupWindow.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\CreateTaskWindow.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\StartupWindow.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Task-scheduler-and-parallel-processing-of-multimedia-data\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\CreateTaskWindow.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\StartupWindow.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.deps.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.runtimeconfig.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.exe
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\bin\Debug\net6.0-windows\Raspoređivač zadataka.pdb
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\CreateTaskWindow.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\StartupWindow.baml
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Nemanja\Desktop\Faks\4. GODINA\Sedmi semestar\Interakcija covjek racunar\HCI-TaskScheduler\Scheduler\GUI\obj\Debug\net6.0-windows\ref\GUI.dll

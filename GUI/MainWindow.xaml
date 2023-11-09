@@ -1,0 +1,110 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="800" WindowStartupLocation="CenterScreen" Closing="Window_Closing"
+        SizeChanged="Window_SizeChanged">
+    <Window.Resources>
+        <Style TargetType="Button" x:Key="ControlButton">
+            <Style.Triggers>
+                <Trigger Property="Control.IsEnabled" Value="false">
+                    <Setter Property="Control.Opacity" Value="0.5" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+       
+        
+        
+    </Window.Resources>
+    <Grid Background="#555555">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="5*" />
+                <RowDefinition Height="0.5*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center" x:Name="addTaskButton" Style="{StaticResource CustomButton}"  MinWidth="120" Click="CreateJobButton_Click" MinHeight="28" Content="Add new task"/>
+
+            <ListView  Grid.Row="1" Grid.Column="1"  x:Name="tasksListView"  ItemsSource="{Binding Tasks}" DataContext="{Binding ViewModel}" FontFamily="Century Gothic" FontSize="14" FontWeight="Normal" Width="Auto" Height="Auto">
+                <ListView.View>
+
+                    <GridView AllowsColumnReorder="False"  >
+                        
+                        <GridViewColumn  Header="Task Name" DisplayMemberBinding="{Binding Name}" x:Name="NameColumn">
+                            <GridViewColumn.HeaderContainerStyle>
+                                <Style TargetType="GridViewColumnHeader">
+                                    <Setter Property="FontFamily" Value="Century Gothic"/>
+                                    <Setter Property="FontWeight" Value="SemiBold"/>
+                                    <Setter Property="FontSize" Value="14"/>
+                                </Style>
+                            </GridViewColumn.HeaderContainerStyle>
+                        </GridViewColumn>
+                        <GridViewColumn  Header="Task State" DisplayMemberBinding="{Binding State}" x:Name="StateColumn">
+                            <GridViewColumn.HeaderContainerStyle>
+                                <Style TargetType="GridViewColumnHeader">
+                                    <Setter Property="FontFamily" Value="Century Gothic"/>
+                                    <Setter Property="FontWeight" Value="SemiBold"/>
+                                    <Setter Property="FontSize" Value="14"/>
+                                    
+                                </Style>
+                            </GridViewColumn.HeaderContainerStyle>
+                            
+                        </GridViewColumn>
+                        <GridViewColumn Header="Progress" x:Name="ProgressColumn">
+                            <GridViewColumn.HeaderContainerStyle>
+                                <Style TargetType="GridViewColumnHeader">
+                                    <Setter Property="FontFamily" Value="Century Gothic"/>
+                                    <Setter Property="FontWeight" Value="SemiBold"/>
+                                    <Setter Property="FontSize" Value="14"/>
+                                    
+                                </Style>
+                            </GridViewColumn.HeaderContainerStyle>
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate >
+                                    <ProgressBar x:Name="myProgressBar" MinWidth="{Binding ActualWidth, ElementName=ProgressColumn}" Width="Auto"  Maximum="1.0" Height="17" Value="{Binding Progress, Mode = OneWay}"></ProgressBar>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Controls" x:Name="ControlsColumn">
+                            <GridViewColumn.HeaderContainerStyle>
+                                <Style TargetType="GridViewColumnHeader">
+                                    <Setter Property="FontFamily" Value="Century Gothic"/>
+                                    <Setter Property="FontWeight" Value="SemiBold"/>
+                                    <Setter Property="FontSize" Value="14"/>
+                                </Style>
+                            </GridViewColumn.HeaderContainerStyle>
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal" Height="Auto" Width="Auto">
+                                        <Button x:Name="startTaskButton" Style="{StaticResource ControlButton}" IsEnabled="{Binding IsStartable}" Click="StartTaskButton_Click">
+                                            <Image Source="Resources/play32.png" Width="20" Height="20"></Image>
+                                        </Button>
+                                        <Button x:Name="pauseTaskBtton" Style="{StaticResource ControlButton}" IsEnabled="{Binding IsPausable}" Click="PauseTaskButton_Click">
+                                            <Image Source="Resources/pause32.png" Width="20" Height="20"></Image>
+                                        </Button>
+                                        <Button x:Name="stopTaskButton" Style="{StaticResource ControlButton}" IsEnabled="{Binding IsStoppable}" Click="StopTaskButton_Click" >
+                                            <Image Source="Resources/stop32.png" Width="20" Height="20"></Image>
+                                        </Button>
+                                        <Button x:Name="closeTaskButton" Style="{StaticResource ControlButton}" IsEnabled="{Binding IsCloseable}" Click="CloseTaskButton_Click" >
+
+                                            <Image Source="Resources/close32.png" Width="20" Height="20"></Image>
+                                        </Button>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+               
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>

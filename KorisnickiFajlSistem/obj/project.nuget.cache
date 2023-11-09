@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtbR8+T2z5E/Fl9TOzSRF5sZYMj3nllcKfvGq3Hyswj1gpUIZzA630CiiRgI5JhBjgG6QLUFWFdISYzGuzm/Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nemanja\\Desktop\\Faks\\4. GODINA\\Sedmi semestar\\Interakcija covjek racunar\\HCI-TaskScheduler\\Scheduler\\KorisnickiFajlSistem\\KorisnickiFajlSistem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nemanja\\.nuget\\packages\\dokannet\\2.0.5.1\\dokannet.2.0.5.1.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nemanja\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
